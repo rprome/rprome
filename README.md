@@ -1,6 +1,6 @@
 ## Hi I am Rizouana 👋
 
-I’m a front-end-focused full-stack developer who loves creating accessible digital experiences! Most of my personal projects are inspired by my love for music 🎶, fashion 👗, and the entrepreneurial spirit I’ve learned from my family’s small business 💼.
+I’m a front-end-focused full-stack developer who loves creating accessible digital experiences! Most of my projects are inspired by my love for music 🎶, fashion 👗, fintech 📊, and the entrepreneurial spirit I’ve gained from my family’s small business 💼.
 
 ---
 
