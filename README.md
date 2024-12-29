@@ -13,6 +13,7 @@ I’m a front-end-focused full-stack developer who loves creating accessible dig
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=fff)
+
 I’m always curious and excited to explore new tools and technologies to expand my skills! ✨
 
 ---
@@ -21,5 +22,4 @@ I’m always curious and excited to explore new tools and technologies to expand
 - 📧 Email: [rprome@u.rochester.edu](mailto:rprome@u.rochester.edu)
 - 💼 LinkedIn: [My LinkedIn](https://www.linkedin.com/in/rizouana-prome-51330a212/)
 
-Can’t wait to collaborate and create something amazing! 🚀
-
+I am excited to connect and potentially collaborate to build something meaningful 😊
