@@ -10,6 +10,7 @@ I’m a front-end-focused full-stack developer who loves creating accessible dig
 ![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=333)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=333)
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
+
 I’m always curious and excited to explore new tools and technologies to expand my skills! ✨
 
 ---
