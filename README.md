@@ -13,6 +13,7 @@ I’m a front-end-focused full-stack developer who loves creating accessible dig
 ![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=fff)
 ![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=fff)
 ![Swift](https://img.shields.io/badge/-Swift-FA7343?logo=swift&logoColor=fff)
+![Figma](https://img.shields.io/badge/-Figma-F24E1E?logo=figma&logoColor=fff)
 
 I’m always curious and excited to explore new tools and technologies to expand my skills! ✨
 
